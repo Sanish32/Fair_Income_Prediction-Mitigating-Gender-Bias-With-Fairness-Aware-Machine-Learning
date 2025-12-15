@@ -1,0 +1,3 @@
+Model,Accuracy,DPD,DPR,EOD,EOR,Male Positive %,Female Positive %
+Baseline (Unfair),0.8457,0.1856,0.3282,0.0875,0.2615,27.6%,9.1%
+Fair (ExponentiatedGradient),0.8046,0.0256,0.9046,0.08,0.5808,26.8%,24.3%
